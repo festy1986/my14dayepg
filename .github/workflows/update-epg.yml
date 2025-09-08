@@ -19,6 +19,10 @@ jobs:
       - name: Download EPG file
         run: |
           curl -L "https://epg.jesmann.com/USFast.xml.gz" -o USFast.xml.gz
+                - name: Unzip EPG file
+        run: |
+          gunzip -c USFast.xml.gz > USFast.xml
+
 
       - name: Commit file if changed
         uses: EndBug/add-and-commit@v9
