@@ -1,0 +1,27 @@
+name: Update EPG
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # Runs at 03:00 UTC daily
+  workflow_dispatch:       # Optional: allows manual trigger from GitHub UI
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download EPG file
+        run: |
+          curl -L "https://epg.jesmann.com/USFast.xml.gz" -o USFast.xml.gz
+
+      - name: Commit file if changed
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "github-actions[bot]"
+          author_email: "github-actions[bot]@users.noreply.github.com"
+          message: "Update EPG (daily)"
+          add: "USFast.xml.gz"
+          signoff: false
