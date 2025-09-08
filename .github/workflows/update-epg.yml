@@ -2,8 +2,11 @@ name: Update EPG
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # Runs at 03:00 UTC daily
-  workflow_dispatch:       # Optional: allows manual trigger from GitHub UI
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-epg:
@@ -24,4 +27,4 @@ jobs:
           author_email: "github-actions[bot]@users.noreply.github.com"
           message: "Update EPG (daily)"
           add: "USFast.xml.gz"
-          signoff: false
+      
