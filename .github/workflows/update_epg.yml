@@ -1,35 +1,7 @@
-name: Daily Clean EPG Update
+- name: Download latest EPG source
+  run: |
+    curl -o epg.xml.gz "https://epg.jesmann.com/iptv/UnitedStates.xml.gz"
 
-on:
-  schedule:
-    - cron: '0 3 * * *'  # 3:00 AM UTC every day
-  workflow_dispatch:
-
-jobs:
-  update-epg:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install dependencies
-        run: |
-          pip install lxml requests
-
-      - name: Run clean EPG script
-        run: |
-          python clean_epg.py
-
-      - name: Commit and push updates
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add clean_epg.xml
-          git commit -m "Automated daily update of clean EPG" || echo "No changes"
-          git push
+- name: Unzip EPG source
+  run: |
+    gunzip -f epg.xml.gz
