@@ -1,7 +1,14 @@
-- name: Download latest EPG source
-  run: |
-    curl -o epg.xml.gz "https://epg.jesmann.com/iptv/UnitedStates.xml.gz"
+name: Daily Clean EPG Update
 
-- name: Unzip EPG source
-  run: |
-    gunzip -f epg.xml.gz
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
