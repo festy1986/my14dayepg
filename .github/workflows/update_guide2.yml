@@ -2,49 +2,51 @@ name: Update Guide2 EPG
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # 8 AM UTC = 3 AM Eastern
-  workflow_dispatch:    # allows manual trigger
+    - cron: '0 8 * * *'   # 8 AM UTC = 3 AM Eastern
+  workflow_dispatch:      # allows manual trigger
 
 jobs:
   update-guide2:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r guide2/requirements.txt
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r guide2/requirements.txt || echo "No requirements file found"
 
-      - name: Download source EPG
-        run: |
-          echo "Downloading EPG source..."
-          curl -L -o guide2/epg_source.xml.gz https://epg.jesmann.com/iptv/USFast.xml.gz
-          echo "Testing gzip integrity..."
-          gzip -t guide2/epg_source.xml.gz
-          gzip -d -f guide2/epg_source.xml.gz
-          echo "Preview first 10 lines to confirm XML:"
-          head -n 10 guide2/epg_source.xml
+    - name: Download source EPG
+      run: |
+        curl -L -o guide2/epg_source.xml.gz https://epg.jesmann.com/iptv/USFast.xml.gz
+        # Check if file exists and is non-empty
+        if [ ! -s guide2/epg_source.xml.gz ]; then
+          echo "EPG download failed or file is empty"
+          exit 1
+        fi
+        gzip -t guide2/epg_source.xml.gz || (echo "gzip file is corrupted" && exit 1)
+        gzip -d -f guide2/epg_source.xml.gz
+        head -n 10 guide2/epg_source.xml  # optional: preview first lines
 
-      - name: Run clean_epg.py
-        run: |
-          python guide2/clean_epg.py
+    - name: Run clean_epg.py
+      run: |
+        python guide2/clean_epg.py
 
-      - name: Run enrich_guide.py
-        run: |
-          python guide2/enrich_guide.py
+    - name: Run enrich_guide.py
+      run: |
+        python guide2/enrich_guide.py
 
-      - name: Commit updated EPG
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add guide2/enriched_epg.xml
-          git commit -m "Automated update of Guide2 EPG" || echo "No changes to commit"
-          git push
+    - name: Commit updated EPG
+      run: |
+        git config user.name "github-actions"
+        git config user.email "github-actions@github.com"
+        git add guide2/enriched_epg.xml
+        git commit -m "Automated update of Guide2 EPG" || echo "No changes to commit"
+        git push
