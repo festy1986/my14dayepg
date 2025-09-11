@@ -25,6 +25,8 @@ jobs:
 
       - name: Download source EPG safely
         run: |
+        curl -L -o guide2/epg_source.xml https://epg.jesmann.com/iptv/USFast.xml.gz
+        gunzip -c guide2/epg_source.xml.gz > guide2/epg_source.xml || true
           set -e
           ATTEMPTS=0
           MAX=3
