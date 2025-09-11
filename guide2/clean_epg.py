@@ -1,8 +1,8 @@
 import os
 import sys
 
-SOURCE_FILE = "epg_source.xml"  # this must match what Actions downloads
-OUTPUT_FILE = "clean_epg.xml"
+SOURCE_FILE = "guide2/epg_source.xml"
+OUTPUT_FILE = "guide2/clean_epg.xml"
 
 if not os.path.exists(SOURCE_FILE):
     print(f"ERROR: Source file '{SOURCE_FILE}' does not exist!")
