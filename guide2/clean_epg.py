@@ -1,10 +1,16 @@
-import xml.etree.ElementTree as ET
-from tqdm import tqdm  # progress bar
+import os
 import sys
 
-# === CONFIG ===
-SOURCE_FILE = "epg.xml"
+SOURCE_FILE = "epg_source.xml"  # this must match what Actions downloads
 OUTPUT_FILE = "clean_epg.xml"
+
+if not os.path.exists(SOURCE_FILE):
+    print(f"ERROR: Source file '{SOURCE_FILE}' does not exist!")
+    sys.exit(1)
+
+if os.path.getsize(SOURCE_FILE) == 0:
+    print(f"ERROR: Source file '{SOURCE_FILE}' is empty!")
+    sys.exit(1)
 
 # === FULL CHANNEL LIST ===
 CHANNELS_TO_KEEP = [
