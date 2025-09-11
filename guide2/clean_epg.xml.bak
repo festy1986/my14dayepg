@@ -1,0 +1,1585 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv><channel id="160400">
+      <lcn>160400</lcn>
+      <display-name>48HOURS</display-name>
+      <display-name>48 Hours</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s160400_ll_h15_aa.png" />
+  </channel>
+  <channel id="161735">
+      <lcn>161735</lcn>
+      <display-name>60MINS</display-name>
+      <display-name>60 Minutes</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s161735_ll_h15_aa.png" />
+  </channel>
+  <channel id="122306">
+      <lcn>122306</lcn>
+      <display-name>A003PST</display-name>
+      <display-name>Stingray Naturescape Stream</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122306_ll_h15_aa.png" />
+  </channel>
+  <channel id="180558">
+      <lcn>180558</lcn>
+      <display-name>ACNMYST</display-name>
+      <display-name>Acorn TV Mysteries</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s180558_ll_h15_aa.png" />
+  </channel>
+  <channel id="138396">
+      <lcn>138396</lcn>
+      <display-name>ACRM</display-name>
+      <display-name>American Crimes</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138396_ll_h15_aa.png" />
+  </channel>
+  <channel id="131887">
+      <lcn>131887</lcn>
+      <display-name>ADDAMS</display-name>
+      <display-name>The Addams Family</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s131887_ll_h15_ab.png" />
+  </channel>
+  <channel id="125128">
+      <lcn>125128</lcn>
+      <display-name>AGRMGT</display-name>
+      <display-name>Anger Management</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s125128_ll_h15_aa.png" />
+  </channel>
+  <channel id="138568">
+      <lcn>138568</lcn>
+      <display-name>AHP</display-name>
+      <display-name>Alfred Hitchcock Presents</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138568_ll_h9_aa.png" />
+  </channel>
+  <channel id="117227">
+      <lcn>117227</lcn>
+      <display-name>ALLWED</display-name>
+      <display-name>All Weddings WE tv</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s117227_ll_h15_ac.png" />
+  </channel>
+  <channel id="130687">
+      <lcn>130687</lcn>
+      <display-name>AMCDRM</display-name>
+      <display-name>Stories by AMC</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s115539_ll_h15_ab.png" />
+  </channel>
+  <channel id="115539">
+      <lcn>115539</lcn>
+      <display-name>AMCPRES</display-name>
+      <display-name>Stories by AMC</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s115539_ll_h15_ab.png" />
+  </channel>
+  <channel id="155369">
+      <lcn>155369</lcn>
+      <display-name>AMNJWR</display-name>
+      <display-name>American Ninja Warrior</display-name>
+  </channel>
+  <channel id="147302">
+      <lcn>147302</lcn>
+      <display-name>AMZADH</display-name>
+      <display-name>Isn't It Romantic</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s147302_ll_h15_ab.png" />
+  </channel>
+  <channel id="149545">
+      <lcn>149545</lcn>
+      <display-name>AMZTRJ</display-name>
+      <display-name>Tribunal Justice</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s149545_ll_h15_aa.png" />
+  </channel>
+  <channel id="181305">
+      <lcn>181305</lcn>
+      <display-name>ANCIENT</display-name>
+      <display-name>Ancient Aliens</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s181305_ll_h15_aa.png" />
+  </channel>
+  <channel id="176728">
+      <lcn>176728</lcn>
+      <display-name>APPRNTC</display-name>
+      <display-name>The Apprentice</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s176728_ll_h9_aa.png" />
+  </channel>
+  <channel id="120073">
+      <lcn>120073</lcn>
+      <display-name>ARUK</display-name>
+      <display-name>Antiques Roadshow UK</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s120073_ll_h15_aa.png" />
+  </channel>
+  <channel id="123425">
+      <lcn>123425</lcn>
+      <display-name>AXMEN</display-name>
+      <display-name>Ax Men</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s123425_ll_h15_ab.png" />
+  </channel>
+  <channel id="117060">
+      <lcn>117060</lcn>
+      <display-name>BAKSGE</display-name>
+      <display-name>Backstage</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s117060_ll_h15_ab.png" />
+  </channel>
+  <channel id="120491">
+      <lcn>120491</lcn>
+      <display-name>BAYW</display-name>
+      <display-name>Baywatch</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s120491_ll_h15_aa.png" />
+  </channel>
+  <channel id="135385">
+      <lcn>135385</lcn>
+      <display-name>BBCBBM</display-name>
+      <display-name>BritBox Mysteries</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s135385_ll_h15_aa.png" />
+  </channel>
+  <channel id="165951">
+      <lcn>165951</lcn>
+      <display-name>BBCDINO</display-name>
+      <display-name>Dinos 24/7</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s165951_ll_h9_aa.png" />
+  </channel>
+  <channel id="141825">
+      <lcn>141825</lcn>
+      <display-name>BBCSWNT</display-name>
+      <display-name>Silent Witness &amp; New Tricks</display-name>
+  </channel>
+  <channel id="141783">
+      <lcn>141783</lcn>
+      <display-name>BDPH</display-name>
+      <display-name>Best of Dr. Phil</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s141783_ll_h15_aa.png" />
+  </channel>
+  <channel id="138399">
+      <lcn>138399</lcn>
+      <display-name>BGCL</display-name>
+      <display-name>Bad Girls Club</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138399_ll_h15_aa.png" />
+  </channel>
+  <channel id="124358">
+      <lcn>124358</lcn>
+      <display-name>BIGLOSE</display-name>
+      <display-name>The Biggest Loser</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124358_ll_h15_aa.png" />
+  </channel>
+  <channel id="138400">
+      <lcn>138400</lcn>
+      <display-name>BRVVLT</display-name>
+      <display-name>Bravo Vault</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138400_ll_h15_aa.png" />
+  </channel>
+  <channel id="113452">
+      <lcn>113452</lcn>
+      <display-name>BUZZRST</display-name>
+      <display-name>BUZZR Stream</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s93430_h3_aa.png" />
+  </channel>
+  <channel id="148202">
+      <lcn>148202</lcn>
+      <display-name>CARCHSE</display-name>
+      <display-name>Car Chase</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s148202_ll_h15_aa.png" />
+  </channel>
+  <channel id="122609">
+      <lcn>122609</lcn>
+      <display-name>CAROL</display-name>
+      <display-name>The Carol Burnett Show</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122609_ll_h15_aa.png" />
+  </channel>
+  <channel id="120086">
+      <lcn>120086</lcn>
+      <display-name>CDW</display-name>
+      <display-name>Classic Doctor Who</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s120086_ll_h15_aa.png" />
+  </channel>
+  <channel id="148201">
+      <lcn>148201</lcn>
+      <display-name>CDWTUBI</display-name>
+      <display-name>Classic Doctor Who</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s120086_ll_h15_aa.png" />
+  </channel>
+  <channel id="125052">
+      <lcn>125052</lcn>
+      <display-name>CINEVLT</display-name>
+      <display-name>CINEVAULT</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s125052_ll_h15_ab.png" />
+  </channel>
+  <channel id="135168">
+      <lcn>135168</lcn>
+      <display-name>CNGWCF</display-name>
+      <display-name>Celebrity Name Game</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s135168_ll_h9_aa.png" />
+  </channel>
+  <channel id="129137">
+      <lcn>129137</lcn>
+      <display-name>COLD</display-name>
+      <display-name>Cold Case Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s129137_ll_h15_aa.png" />
+  </channel>
+  <channel id="115447">
+      <lcn>115447</lcn>
+      <display-name>COMCLN</display-name>
+      <display-name>Comedy Dynamics</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s111668_ll_h15_aa.png" />
+  </channel>
+  <channel id="123605">
+      <lcn>123605</lcn>
+      <display-name>COURTST</display-name>
+      <display-name>Court TV</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s111043_ll_h15_aa.png" />
+  </channel>
+  <channel id="134159">
+      <lcn>134159</lcn>
+      <display-name>CRD</display-name>
+      <display-name>Real Disaster Channel</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s134159_ll_h15_aa.png" />
+  </channel>
+  <channel id="140528">
+      <lcn>140528</lcn>
+      <display-name>CRUNCHY</display-name>
+      <display-name>Crunchyroll</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s140528_ll_h15_aa.png" />
+  </channel>
+  <channel id="125046">
+      <lcn>125046</lcn>
+      <display-name>CVCLASS</display-name>
+      <display-name>CINEVAULT: Classics</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s125046_ll_h15_aa.png" />
+  </channel>
+  <channel id="122606">
+      <lcn>122606</lcn>
+      <display-name>CVWEST</display-name>
+      <display-name>CINEVAULT Westerns</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122606_ll_h15_aa.png" />
+  </channel>
+  <channel id="126369">
+      <lcn>126369</lcn>
+      <display-name>DANCM</display-name>
+      <display-name>Dance Moms</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s126369_ll_h15_ab.png" />
+  </channel>
+  <channel id="123432">
+      <lcn>123432</lcn>
+      <display-name>DEALZON</display-name>
+      <display-name>Deal Zone</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s123432_ll_h15_ab.png" />
+  </channel>
+  <channel id="123455">
+      <lcn>123455</lcn>
+      <display-name>DGRASSI</display-name>
+      <display-name>Degrassi</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s123455_ll_h15_aa.png" />
+  </channel>
+  <channel id="160647">
+      <lcn>160647</lcn>
+      <display-name>DISATJ</display-name>
+      <display-name>According to Jim</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s160647_ll_h15_aa.png" />
+  </channel>
+  <channel id="160646">
+      <lcn>160646</lcn>
+      <display-name>DISGN</display-name>
+      <display-name>General Hospital</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s160646_ll_h15_aa.png" />
+  </channel>
+  <channel id="163941">
+      <lcn>163941</lcn>
+      <display-name>DISSN</display-name>
+      <display-name>Supernanny</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s163941_ll_h15_aa.png" />
+  </channel>
+  <channel id="160648">
+      <lcn>160648</lcn>
+      <display-name>DISTW</display-name>
+      <display-name>Wicked Tuna</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s160648_ll_h15_aa.png" />
+  </channel>
+  <channel id="160650">
+      <lcn>160650</lcn>
+      <display-name>DISWO</display-name>
+      <display-name>Wipeout</display-name>
+  </channel>
+  <channel id="129672">
+      <lcn>129672</lcn>
+      <display-name>DOCPLUS</display-name>
+      <display-name>Documentary+</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s129672_ll_h15_aa.png" />
+  </channel>
+  <channel id="171697">
+      <lcn>171697</lcn>
+      <display-name>DOCTORS</display-name>
+      <display-name>The Doctors</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s171697_ll_h15_aa.png" />
+  </channel>
+  <channel id="122475">
+      <lcn>122475</lcn>
+      <display-name>DORNOD</display-name>
+      <display-name>Deal or No Deal</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122475_ll_h15_aa.png" />
+  </channel>
+  <channel id="150981">
+      <lcn>150981</lcn>
+      <display-name>DOTBH</display-name>
+      <display-name>Dog the Bounty Hunter</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s150981_ll_h15_aa.png" />
+  </channel>
+  <channel id="131429">
+      <lcn>131429</lcn>
+      <display-name>DUCKDYN</display-name>
+      <display-name>Duck Dynasty</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s131429_ll_h15_aa.png" />
+  </channel>
+  <channel id="112881">
+      <lcn>112881</lcn>
+      <display-name>DUST</display-name>
+      <display-name>Alien Nation by DUST</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s112881_ll_h15_ab.png" />
+  </channel>
+  <channel id="138393">
+      <lcn>138393</lcn>
+      <display-name>EKEEPUP</display-name>
+      <display-name>E! Keeping Up</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138393_ll_h15_aa.png" />
+  </channel>
+  <channel id="124328">
+      <lcn>124328</lcn>
+      <display-name>ELREYST</display-name>
+      <display-name>El Rey Rebel</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124328_ll_h15_ab.png" />
+  </channel>
+  <channel id="138686">
+      <lcn>138686</lcn>
+      <display-name>FFCL</display-name>
+      <display-name>Family Feud Classic</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138686_ll_h15_aa.png" />
+  </channel>
+  <channel id="122928">
+      <lcn>122928</lcn>
+      <display-name>FFUSA</display-name>
+      <display-name>Fear Factor USA</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s131270_ll_h15_aa.png" />
+  </channel>
+  <channel id="176968">
+      <lcn>176968</lcn>
+      <display-name>FGTEEV</display-name>
+      <display-name>FGTeeV</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s176968_ll_h15_aa.png" />
+  </channel>
+  <channel id="181303">
+      <lcn>181303</lcn>
+      <display-name>FIRST48</display-name>
+      <display-name>The First 48 by A&amp;E</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s181303_ll_h15_aa.png" />
+  </channel>
+  <channel id="103609">
+      <lcn>103609</lcn>
+      <display-name>FNENASH</display-name>
+      <display-name>FNE Nashville</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s103482_h3_aa.png" />
+  </channel>
+  <channel id="130175">
+      <lcn>130175</lcn>
+      <display-name>FSCAPE</display-name>
+      <display-name>Farscape</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s130175_ll_h15_aa.png" />
+  </channel>
+  <channel id="132158">
+      <lcn>132158</lcn>
+      <display-name>GETCMDY</display-name>
+      <display-name>GET Comedy</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s132158_ll_h15_ab.png" />
+  </channel>
+  <channel id="132748">
+      <lcn>132748</lcn>
+      <display-name>GETTVS</display-name>
+      <display-name>get</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s82563_ll_h15_ab.png" />
+  </channel>
+  <channel id="138879">
+      <lcn>138879</lcn>
+      <display-name>GREENAC</display-name>
+      <display-name>Green Acres</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138879_ll_h15_aa.png" />
+  </channel>
+  <channel id="139576">
+      <lcn>139576</lcn>
+      <display-name>GUHHWE</display-name>
+      <display-name>Growing Up Hip Hop WE tv</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s139576_ll_h15_ab.png" />
+  </channel>
+  <channel id="148601">
+      <lcn>148601</lcn>
+      <display-name>HUNHUN</display-name>
+      <display-name>Hunter x Hunter</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s148601_ll_h15_aa.png" />
+  </channel>
+  <channel id="123426">
+      <lcn>123426</lcn>
+      <display-name>ICEROAD</display-name>
+      <display-name>Ice Road Truckers</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s123426_ll_h15_ab.png" />
+  </channel>
+  <channel id="116019">
+      <lcn>116019</lcn>
+      <display-name>IFCOFF</display-name>
+      <display-name>Slightly Off IFC</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s116019_ll_h15_ab.png" />
+  </channel>
+  <channel id="119234">
+      <lcn>119234</lcn>
+      <display-name>JDNOSEY</display-name>
+      <display-name>Judge Nosey</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s119234_ll_h15_ac.png" />
+  </channel>
+  <channel id="122565">
+      <lcn>122565</lcn>
+      <display-name>JUDYJUK</display-name>
+      <display-name>Judy Justice</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122217_ll_h15_aa.png" />
+  </channel>
+  <channel id="122217">
+      <lcn>122217</lcn>
+      <display-name>JUDYJUS</display-name>
+      <display-name>Judy Justice</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122217_ll_h15_aa.png" />
+  </channel>
+  <channel id="185538">
+      <lcn>185538</lcn>
+      <display-name>LALU</display-name>
+      <display-name>Love After Lockup We TV</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/GNLZZGG0020FML5.png" />
+  </channel>
+  <channel id="119388">
+      <lcn>119388</lcn>
+      <display-name>LCRSTR</display-name>
+      <display-name>Law &amp; Crime Rewind</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s119388_ll_h15_aa.png" />
+  </channel>
+  <channel id="109553">
+      <lcn>109553</lcn>
+      <display-name>LCSTR</display-name>
+      <display-name>Law &amp; Crime Stream</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s109553_h3_ba.png" />
+  </channel>
+  <channel id="137506">
+      <lcn>137506</lcn>
+      <display-name>LEGTRI</display-name>
+      <display-name>Court TV Legendary Trials</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s137506_ll_h15_aa.png" />
+  </channel>
+  <channel id="138398">
+      <lcn>138398</lcn>
+      <display-name>LVEGAS</display-name>
+      <display-name>Top Chef Vault</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138398_ll_h15_aa.png" />
+  </channel>
+  <channel id="134814">
+      <lcn>134814</lcn>
+      <display-name>MAGUTC1</display-name>
+      <display-name>MagellanTV Wildest</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s134814_ll_h15_ab.png" />
+  </channel>
+  <channel id="149441">
+      <lcn>149441</lcn>
+      <display-name>MEATEAT</display-name>
+      <display-name>MeatEater</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s149441_ll_h15_aa.png" />
+  </channel>
+  <channel id="138877">
+      <lcn>138877</lcn>
+      <display-name>MGMACT</display-name>
+      <display-name>MGM Presents: Action</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138877_ll_h15_aa.png" />
+  </channel>
+  <channel id="139574">
+      <lcn>139574</lcn>
+      <display-name>MGMPRES</display-name>
+      <display-name>MGM Presents</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s139574_ll_h15_aa.png" />
+  </channel>
+  <channel id="122437">
+      <lcn>122437</lcn>
+      <display-name>MIDSMUR</display-name>
+      <display-name>Midsomer Murders</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122437_ll_h9_aa.png" />
+  </channel>
+  <channel id="126439">
+      <lcn>126439</lcn>
+      <display-name>MILITRY</display-name>
+      <display-name>Military Heroes</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s126439_ll_h15_aa.png" />
+  </channel>
+  <channel id="167662">
+      <lcn>167662</lcn>
+      <display-name>MLLFLS</display-name>
+      <display-name>The Mallorca Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s167662_ll_h9_aa.png" />
+  </channel>
+  <channel id="157054">
+      <lcn>157054</lcn>
+      <display-name>MMC</display-name>
+      <display-name>Miramax Movie Channel</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s157054_ll_h15_aa.png" />
+  </channel>
+  <channel id="123433">
+      <lcn>123433</lcn>
+      <display-name>MODMARV</display-name>
+      <display-name>Modern Marvels</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s123433_ll_h15_ab.png" />
+  </channel>
+  <channel id="124025">
+      <lcn>124025</lcn>
+      <display-name>MOOVM</display-name>
+      <display-name>Moovimex</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124025_ll_h15_ab.png" />
+  </channel>
+  <channel id="115944">
+      <lcn>115944</lcn>
+      <display-name>MOVSPH</display-name>
+      <display-name>Moviesphere</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s115944_ll_h15_ab.png" />
+  </channel>
+  <channel id="145669">
+      <lcn>145669</lcn>
+      <display-name>MPSCIFI</display-name>
+      <display-name>MGM Presents: Horror</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s145669_ll_h9_ab.png" />
+  </channel>
+  <channel id="145671">
+      <lcn>145671</lcn>
+      <display-name>MPWEST</display-name>
+      <display-name>MGM Presents: Westerns</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s145671_ll_h15_aa.png" />
+  </channel>
+  <channel id="168843">
+      <lcn>168843</lcn>
+      <display-name>MSFREEV</display-name>
+      <display-name>The Martha Stewart Channel</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s168843_ll_h15_aa.png" />
+  </channel>
+  <channel id="120203">
+      <lcn>120203</lcn>
+      <display-name>MVSPUK</display-name>
+      <display-name>Moviesphere</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s115944_ll_h15_ab.png" />
+  </channel>
+  <channel id="176043">
+      <lcn>176043</lcn>
+      <display-name>NASAPLS</display-name>
+      <display-name>NASA+</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s176043_ll_h9_aa.png" />
+  </channel>
+  <channel id="118859">
+      <lcn>118859</lcn>
+      <display-name>NASH</display-name>
+      <display-name>Nashville</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s118859_ll_h15_aa.png" />
+  </channel>
+  <channel id="160091">
+      <lcn>160091</lcn>
+      <display-name>NBCWSMV</display-name>
+      <display-name>NBC Nashville (WSMV4)</display-name>
+  </channel>
+  <channel id="130248">
+      <lcn>130248</lcn>
+      <display-name>NESCAP</display-name>
+      <display-name>Stingray Naturescape</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122306_ll_h15_aa.png" />
+  </channel>
+  <channel id="115729">
+      <lcn>115729</lcn>
+      <display-name>NESCAPP</display-name>
+      <display-name>Stingray Naturescape</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s90613_ll_h15_ad.png" />
+  </channel>
+  <channel id="134043">
+      <lcn>134043</lcn>
+      <display-name>NGBRUSB</display-name>
+      <display-name>Harlem</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s134043_ll_h9_ac.png" />
+  </channel>
+  <channel id="157057">
+      <lcn>157057</lcn>
+      <display-name>NLC</display-name>
+      <display-name>National Lampoon</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s157057_ll_h15_aa.png" />
+  </channel>
+  <channel id="119233">
+      <lcn>119233</lcn>
+      <display-name>NOSEY</display-name>
+      <display-name>Nosey</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s119233_ll_h15_ab.png" />
+  </channel>
+  <channel id="133657">
+      <lcn>133657</lcn>
+      <display-name>NOSEYP</display-name>
+      <display-name>Nosey on Peacock</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s133657_ll_h15_ab.png" />
+  </channel>
+  <channel id="162105">
+      <lcn>162105</lcn>
+      <display-name>NRUTO</display-name>
+      <display-name>Naruto</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s162105_ll_h15_aa.png" />
+  </channel>
+  <channel id="158128">
+      <lcn>158128</lcn>
+      <display-name>NSHBRG</display-name>
+      <display-name>Nash Bridges</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s158128_ll_h15_aa.png" />
+  </channel>
+  <channel id="135516">
+      <lcn>135516</lcn>
+      <display-name>NSYCONF</display-name>
+      <display-name>Confess by Nosey</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s135516_ll_h15_aa.png" />
+  </channel>
+  <channel id="131737">
+      <lcn>131737</lcn>
+      <display-name>OTFAST</display-name>
+      <display-name>Overtime</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s131737_ll_h15_aa.png" />
+  </channel>
+  <channel id="135167">
+      <lcn>135167</lcn>
+      <display-name>OTRSPH</display-name>
+      <display-name>OuterSphere</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s135167_ll_h15_aa.png" />
+  </channel>
+  <channel id="139721">
+      <lcn>139721</lcn>
+      <display-name>OUTLIM</display-name>
+      <display-name>The Outer Limits</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s139721_ll_h15_ab.png" />
+  </channel>
+  <channel id="157277">
+      <lcn>157277</lcn>
+      <display-name>OUTLW</display-name>
+      <display-name>Outlaw</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s150537_ll_h15_aa.png" />
+  </channel>
+  <channel id="138585">
+      <lcn>138585</lcn>
+      <display-name>OXYTCA</display-name>
+      <display-name>Oxygen True Crime Archives</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138585_ll_h15_aa.png" />
+  </channel>
+  <channel id="123424">
+      <lcn>123424</lcn>
+      <display-name>PERFORM</display-name>
+      <display-name>Perform</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s123424_ll_h15_aa.png" />
+  </channel>
+  <channel id="149039">
+      <lcn>149039</lcn>
+      <display-name>PFTV</display-name>
+      <display-name>PureFlix TV</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s149039_ll_h15_aa.png" />
+  </channel>
+  <channel id="113678">
+      <lcn>113678</lcn>
+      <display-name>PK3</display-name>
+      <display-name>SNL Vault</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113678_ll_h15_ad.png" />
+  </channel>
+  <channel id="125151">
+      <lcn>125151</lcn>
+      <display-name>PLASP</display-name>
+      <display-name>Places &amp; Spaces</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s125151_ll_h15_aa.png" />
+  </channel>
+  <channel id="121813">
+      <lcn>121813</lcn>
+      <display-name>PPLUSAA</display-name>
+      <display-name>Adult Animation</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121813_ll_h15_ab.png" />
+  </channel>
+  <channel id="121822">
+      <lcn>121822</lcn>
+      <display-name>PPLUSCHAL</display-name>
+      <display-name>The Challenge</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121822_ll_h15_ab.png" />
+  </channel>
+  <channel id="121811">
+      <lcn>121811</lcn>
+      <display-name>PPLUSCJ</display-name>
+      <display-name>Crime &amp; Justice</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121811_ll_h15_ab.png" />
+  </channel>
+  <channel id="124626">
+      <lcn>124626</lcn>
+      <display-name>PPLUSCSI</display-name>
+      <display-name>CSI</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124626_ll_h15_ab.png" />
+  </channel>
+  <channel id="121825">
+      <lcn>121825</lcn>
+      <display-name>PPLUSHISUN</display-name>
+      <display-name>History &amp; Undiscovered</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121825_ll_h15_ab.png" />
+  </channel>
+  <channel id="121816">
+      <lcn>121816</lcn>
+      <display-name>PPLUSKIDFF</display-name>
+      <display-name>Kids &amp; Family Fun</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121816_ll_h15_ab.png" />
+  </channel>
+  <channel id="121823">
+      <lcn>121823</lcn>
+      <display-name>PPLUSNOS</display-name>
+      <display-name>Nostalgic Hits</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/GNLZZGG0023P97G.png" />
+  </channel>
+  <channel id="121817">
+      <lcn>121817</lcn>
+      <display-name>PPLUSPAW</display-name>
+      <display-name>PAW Patrol</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121817_ll_h15_ab.png" />
+  </channel>
+  <channel id="121820">
+      <lcn>121820</lcn>
+      <display-name>PPLUSST</display-name>
+      <display-name>Star Trek</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121820_ll_h15_aa.png" />
+  </channel>
+  <channel id="121821">
+      <lcn>121821</lcn>
+      <display-name>PPLUSSUR</display-name>
+      <display-name>Survivor</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121821_ll_h15_aa.png" />
+  </channel>
+  <channel id="121814">
+      <lcn>121814</lcn>
+      <display-name>PPLUSTVC</display-name>
+      <display-name>TV Classics</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121814_ll_h15_ab.png" />
+  </channel>
+  <channel id="135575">
+      <lcn>135575</lcn>
+      <display-name>PR</display-name>
+      <display-name>Power Rangers</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s135575_ll_h15_aa.png" />
+  </channel>
+  <channel id="181900">
+      <lcn>181900</lcn>
+      <display-name>PRACT</display-name>
+      <display-name>The Practice</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s181900_ll_h15_aa.png" />
+  </channel>
+  <channel id="135339">
+      <lcn>135339</lcn>
+      <display-name>PRMVDO</display-name>
+      <display-name>Judge &amp; Jury</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s135339_ll_h15_ab.png" />
+  </channel>
+  <channel id="122435">
+      <lcn>122435</lcn>
+      <display-name>PRTLNDA</display-name>
+      <display-name>Portlandia</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122435_ll_h15_aa.png" />
+  </channel>
+  <channel id="114984">
+      <lcn>114984</lcn>
+      <display-name>PTVARUK</display-name>
+      <display-name>Pluto Antiques Roadshow UK</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s114984_ll_h6_aa.png" />
+  </channel>
+  <channel id="120245">
+      <lcn>120245</lcn>
+      <display-name>PTVBAR</display-name>
+      <display-name>Bar Rescue</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s120245_ll_h9_aa.png" />
+  </channel>
+  <channel id="114944">
+      <lcn>114944</lcn>
+      <display-name>PTVBAY</display-name>
+      <display-name>Pluto Baywatch</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s114944_ll_h6_aa.png" />
+  </channel>
+  <channel id="123806">
+      <lcn>123806</lcn>
+      <display-name>PTVBBMS</display-name>
+      <display-name>BritBox Mysteries</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s123806_ll_h6_aa.png" />
+  </channel>
+  <channel id="114701">
+      <lcn>114701</lcn>
+      <display-name>PTVCCF</display-name>
+      <display-name>Cold Case Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s114701_ll_h6_aa.png" />
+  </channel>
+  <channel id="117292">
+      <lcn>117292</lcn>
+      <display-name>PTVCHALL</display-name>
+      <display-name>The Challenge</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s117292_ll_h6_aa.png" />
+  </channel>
+  <channel id="115994">
+      <lcn>115994</lcn>
+      <display-name>PTVCSI</display-name>
+      <display-name>CSI</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s115994_ll_h6_aa.png" />
+  </channel>
+  <channel id="119988">
+      <lcn>119988</lcn>
+      <display-name>PTVCSIM</display-name>
+      <display-name>Pluto TV CSI Miami</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s119988_ll_h9_aa.png" />
+  </channel>
+  <channel id="119987">
+      <lcn>119987</lcn>
+      <display-name>PTVCSINY</display-name>
+      <display-name>Pluto TV CSI NY</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s119987_ll_h9_aa.png" />
+  </channel>
+  <channel id="114951">
+      <lcn>114951</lcn>
+      <display-name>PTVDEG</display-name>
+      <display-name>Degrassi</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s114951_ll_h6_aa.png" />
+  </channel>
+  <channel id="114699">
+      <lcn>114699</lcn>
+      <display-name>PTVDTBH</display-name>
+      <display-name>Dog the Bounty Hunter</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s114699_ll_h6_aa.png" />
+  </channel>
+  <channel id="114969">
+      <lcn>114969</lcn>
+      <display-name>PTVFORF</display-name>
+      <display-name>Pluto Forensic Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s114969_ll_h6_aa.png" />
+  </channel>
+  <channel id="117294">
+      <lcn>117294</lcn>
+      <display-name>PTVIMPT</display-name>
+      <display-name>Impact Wrestling</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s117294_ll_h9_ab.png" />
+  </channel>
+  <channel id="114982">
+      <lcn>114982</lcn>
+      <display-name>PTVLVRG</display-name>
+      <display-name>Pluto Leverage</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s114982_ll_h6_aa.png" />
+  </channel>
+  <channel id="114950">
+      <lcn>114950</lcn>
+      <display-name>PTVNOSE</display-name>
+      <display-name>Nosey</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s114950_ll_h6_aa.png" />
+  </channel>
+  <channel id="114945">
+      <lcn>114945</lcn>
+      <display-name>PTVSAMC</display-name>
+      <display-name>Pluto Stories by AMC</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s114945_ll_h15_ab.png" />
+  </channel>
+  <channel id="115987">
+      <lcn>115987</lcn>
+      <display-name>PTVSTAR</display-name>
+      <display-name>Star Trek</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s115987_ll_h6_aa.png" />
+  </channel>
+  <channel id="115890">
+      <lcn>115890</lcn>
+      <display-name>PTVSURV</display-name>
+      <display-name>Survivor</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s115890_ll_h6_aa.png" />
+  </channel>
+  <channel id="114983">
+      <lcn>114983</lcn>
+      <display-name>PTVTOH</display-name>
+      <display-name>Pluto This Old House</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s114983_ll_h6_aa.png" />
+  </channel>
+  <channel id="115072">
+      <lcn>115072</lcn>
+      <display-name>PTVUKFB</display-name>
+      <display-name>FBI Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s115072_ll_h15_aa.png" />
+  </channel>
+  <channel id="121656">
+      <lcn>121656</lcn>
+      <display-name>RCRIM</display-name>
+      <display-name>Real Crime</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121656_ll_h15_aa.png" />
+  </channel>
+  <channel id="134999">
+      <lcn>134999</lcn>
+      <display-name>RCRIMUS</display-name>
+      <display-name>Real Crime</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s134999_ll_h9_aa.png" />
+  </channel>
+  <channel id="155844">
+      <lcn>155844</lcn>
+      <display-name>RCU</display-name>
+      <display-name>Real Crime Uncovered by VideoElephant</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s155844_ll_h15_ab.png" />
+  </channel>
+  <channel id="121781">
+      <lcn>121781</lcn>
+      <display-name>REELZSTR</display-name>
+      <display-name>Reelz Famous and Infamous</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121781_ll_h15_ab.png" />
+  </channel>
+  <channel id="131221">
+      <lcn>131221</lcn>
+      <display-name>REUTERS</display-name>
+      <display-name>Reuters 60</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s131221_ll_h9_ab.png" />
+  </channel>
+  <channel id="113603">
+      <lcn>113603</lcn>
+      <display-name>REVRY</display-name>
+      <display-name>Revry</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113603_h3_aa.png" />
+  </channel>
+  <channel id="116111">
+      <lcn>116111</lcn>
+      <display-name>REVRY2</display-name>
+      <display-name>Revry 2</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/GNLZZGG0021H2G8.png" />
+  </channel>
+  <channel id="138455">
+      <lcn>138455</lcn>
+      <display-name>RHLVT</display-name>
+      <display-name>Real Housewives Vault</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138455_ll_h15_aa.png" />
+  </channel>
+  <channel id="126941">
+      <lcn>126941</lcn>
+      <display-name>RIFF</display-name>
+      <display-name>The RiffTrax Channel</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s126941_ll_h15_aa.png" />
+  </channel>
+  <channel id="140393">
+      <lcn>140393</lcn>
+      <display-name>ROVRPET</display-name>
+      <display-name>Rovr Pets</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s140393_ll_h15_aa.png" />
+  </channel>
+  <channel id="117195">
+      <lcn>117195</lcn>
+      <display-name>RVRYINT</display-name>
+      <display-name>Revry Global</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/GNLZZGG0021H2GR.png" />
+  </channel>
+  <channel id="116607">
+      <lcn>116607</lcn>
+      <display-name>SBOXTV</display-name>
+      <display-name>Screambox TV</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s116607_ll_h15_ab.png" />
+  </channel>
+  <channel id="145846">
+      <lcn>145846</lcn>
+      <display-name>SBSHUDD</display-name>
+      <display-name>Scares by Shudder</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s145846_ll_h15_aa.png" />
+  </channel>
+  <channel id="120010">
+      <lcn>120010</lcn>
+      <display-name>SCNEWST</display-name>
+      <display-name>Scripps News</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s96827_h3_ba.png" />
+  </channel>
+  <channel id="122436">
+      <lcn>122436</lcn>
+      <display-name>SCOMBAT</display-name>
+      <display-name>Swerve Combat</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122436_ll_h15_ab.png" />
+  </channel>
+  <channel id="113003">
+      <lcn>113003</lcn>
+      <display-name>SCRNACT</display-name>
+      <display-name>ScreenPix Action</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113003_ll_h15_aa.png" />
+  </channel>
+  <channel id="113001">
+      <lcn>113001</lcn>
+      <display-name>SCRNPIX</display-name>
+      <display-name>ScreenPix</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113001_ll_h15_aa.png" />
+  </channel>
+  <channel id="113004">
+      <lcn>113004</lcn>
+      <display-name>SCRNVOI</display-name>
+      <display-name>ScreenPix Voices</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113004_ll_h15_aa.png" />
+  </channel>
+  <channel id="113006">
+      <lcn>113006</lcn>
+      <display-name>SCWSTHD</display-name>
+      <display-name>ScreenPix Westerns HD</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113006_ll_h15_aa.png" />
+  </channel>
+  <channel id="176866">
+      <lcn>176866</lcn>
+      <display-name>SMOVIES</display-name>
+      <display-name>Shout! Movies</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s176866_ll_h15_aa.png" />
+  </channel>
+  <channel id="121598">
+      <lcn>121598</lcn>
+      <display-name>SPRSWP</display-name>
+      <display-name>Supermarket Sweep</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121598_ll_h15_aa.png" />
+  </channel>
+  <channel id="139575">
+      <lcn>139575</lcn>
+      <display-name>STARGAT</display-name>
+      <display-name>STARGATE</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s139575_ll_h15_aa.png" />
+  </channel>
+  <channel id="138563">
+      <lcn>138563</lcn>
+      <display-name>SVDBELL</display-name>
+      <display-name>Saved by the Bell</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138563_ll_h15_aa.png" />
+  </channel>
+  <channel id="107076">
+      <lcn>107076</lcn>
+      <display-name>TASTE</display-name>
+      <display-name>Tastemade</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s107076_ll_h15_ab.png" />
+  </channel>
+  <channel id="114491">
+      <lcn>114491</lcn>
+      <display-name>TBRCSTR</display-name>
+      <display-name>The Bob Ross Channel</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s114491_ll_h15_aa.png" />
+  </channel>
+  <channel id="135383">
+      <lcn>135383</lcn>
+      <display-name>TCNEST1</display-name>
+      <display-name>True Crime Now</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s120802_h3_ba.png" />
+  </channel>
+  <channel id="131886">
+      <lcn>131886</lcn>
+      <display-name>TEENWLF</display-name>
+      <display-name>Teen Wolf</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s131886_ll_h15_aa.png" />
+  </channel>
+  <channel id="122536">
+      <lcn>122536</lcn>
+      <display-name>TH</display-name>
+      <display-name>True History</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122536_ll_h15_aa.png" />
+  </channel>
+  <channel id="115492">
+      <lcn>115492</lcn>
+      <display-name>THISOH</display-name>
+      <display-name>This Old House</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s115492_ll_h15_aa.png" />
+  </channel>
+  <channel id="120352">
+      <lcn>120352</lcn>
+      <display-name>TMESP</display-name>
+      <display-name>TastemadeEspañolUS</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138176_ll_h15_ab.png" />
+  </channel>
+  <channel id="138176">
+      <lcn>138176</lcn>
+      <display-name>TMESP8</display-name>
+      <display-name>DNU Tastemade En Español</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138176_ll_h15_ab.png" />
+  </channel>
+  <channel id="112480">
+      <lcn>112480</lcn>
+      <display-name>TMFRE16</display-name>
+      <display-name>Tastemade</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s98858_ll_h15_ab.png" />
+  </channel>
+  <channel id="110874">
+      <lcn>110874</lcn>
+      <display-name>TMFREE</display-name>
+      <display-name>Tastemade Free</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s107076_ll_h15_ab.png" />
+  </channel>
+  <channel id="125187">
+      <lcn>125187</lcn>
+      <display-name>TMHOME</display-name>
+      <display-name>Tastemade Home</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s125187_ll_h15_ab.png" />
+  </channel>
+  <channel id="111952">
+      <lcn>111952</lcn>
+      <display-name>TMINTL</display-name>
+      <display-name>Tastemade International</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s111952_ll_h15_ab.png" />
+  </channel>
+  <channel id="120351">
+      <lcn>120351</lcn>
+      <display-name>TMTRAVEL</display-name>
+      <display-name>TastemadeTravel</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s120351_ll_h15_ab.png" />
+  </channel>
+  <channel id="120480">
+      <lcn>120480</lcn>
+      <display-name>TOHAMZ</display-name>
+      <display-name>This Old House</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s120480_ll_h15_aa.png" />
+  </channel>
+  <channel id="122387">
+      <lcn>122387</lcn>
+      <display-name>TOHMC</display-name>
+      <display-name>This Old House Makers Channel</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122387_ll_h15_aa.png" />
+  </channel>
+  <channel id="131772">
+      <lcn>131772</lcn>
+      <display-name>TOHMST</display-name>
+      <display-name>The Martha Stewart Channel</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s131772_ll_h15_aa.png" />
+  </channel>
+  <channel id="113738">
+      <lcn>113738</lcn>
+      <display-name>TOHOUSE</display-name>
+      <display-name>This Old House</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113738_ll_h15_aa.png" />
+  </channel>
+  <channel id="126329">
+      <lcn>126329</lcn>
+      <display-name>TOPGEAR</display-name>
+      <display-name>Top Gear</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s126329_ll_h9_ac.png" />
+  </channel>
+  <channel id="133939">
+      <lcn>133939</lcn>
+      <display-name>TPB</display-name>
+      <display-name>Trailer Park Boys: The SwearNet Show</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s133939_ll_h15_aa.png" />
+  </channel>
+  <channel id="153566">
+      <lcn>153566</lcn>
+      <display-name>TPGR</display-name>
+      <display-name>Top Gear</display-name>
+  </channel>
+  <channel id="120211">
+      <lcn>120211</lcn>
+      <display-name>TRUCRIN</display-name>
+      <display-name>True Crime Now</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s120211_ll_h15_aa.png" />
+  </channel>
+  <channel id="115540">
+      <lcn>115540</lcn>
+      <display-name>TWDU</display-name>
+      <display-name>The Walking Dead Universe</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s115540_ll_h15_ac.png" />
+  </channel>
+  <channel id="138450">
+      <lcn>138450</lcn>
+      <display-name>UNIMON</display-name>
+      <display-name>Universal Monsters</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138450_ll_h15_aa.png" />
+  </channel>
+  <channel id="164080">
+      <lcn>164080</lcn>
+      <display-name>UNIMOV</display-name>
+      <display-name>Universal Movies</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s164080_ll_h15_ab.png" />
+  </channel>
+  <channel id="135718">
+      <lcn>135718</lcn>
+      <display-name>VICEF1</display-name>
+      <display-name>Vice</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s135718_ll_h9_aa.png" />
+  </channel>
+  <channel id="135717">
+      <lcn>135717</lcn>
+      <display-name>VICEF2</display-name>
+      <display-name>Vice News</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s135717_ll_h9_aa.png" />
+  </channel>
+  <channel id="92255">
+      <lcn>92255</lcn>
+      <display-name>VICESTR</display-name>
+      <display-name>Vice Stream</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s92255_ll_h15_aa.png" />
+  </channel>
+  <channel id="120978">
+      <lcn>120978</lcn>
+      <display-name>VIZFORF</display-name>
+      <display-name>Forensic Files</display-name>
+  </channel>
+  <channel id="122101">
+      <lcn>122101</lcn>
+      <display-name>VIZICERT</display-name>
+      <display-name>Ice Road Truckers</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s123426_ll_h15_ab.png" />
+  </channel>
+  <channel id="120975">
+      <lcn>120975</lcn>
+      <display-name>VIZPARA</display-name>
+      <display-name>Paranormal Files</display-name>
+  </channel>
+  <channel id="121718">
+      <lcn>121718</lcn>
+      <display-name>VIZTASTR</display-name>
+      <display-name>Tastemade Travel</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s120351_ll_h15_ab.png" />
+  </channel>
+  <channel id="118942">
+      <lcn>118942</lcn>
+      <display-name>VIZWEST</display-name>
+      <display-name>CINEVAULT: Westerns</display-name>
+  </channel>
+  <channel id="124226">
+      <lcn>124226</lcn>
+      <display-name>WAZCGAS</display-name>
+      <display-name>Corner Gas</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124226_ll_h9_aa.png" />
+  </channel>
+  <channel id="124223">
+      <lcn>124223</lcn>
+      <display-name>WAZFVO</display-name>
+      <display-name>Leverage</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124223_ll_h9_aa.png" />
+  </channel>
+  <channel id="124222">
+      <lcn>124222</lcn>
+      <display-name>WAZGD</display-name>
+      <display-name>Grand Designs</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124222_ll_h9_aa.png" />
+  </channel>
+  <channel id="124224">
+      <lcn>124224</lcn>
+      <display-name>WAZPRUN</display-name>
+      <display-name>Project Runway</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124224_ll_h9_aa.png" />
+  </channel>
+  <channel id="170368">
+      <lcn>170368</lcn>
+      <display-name>WBTV1S</display-name>
+      <display-name>At the Movies</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s170368_ll_h15_aa.png" />
+  </channel>
+  <channel id="138032">
+      <lcn>138032</lcn>
+      <display-name>WBTV4</display-name>
+      <display-name>Mysterious Worlds</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138032_ll_h15_ab.png" />
+  </channel>
+  <channel id="169318">
+      <lcn>169318</lcn>
+      <display-name>WBTV5S</display-name>
+      <display-name>Crime Scenes</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s169318_ll_h15_aa.png" />
+  </channel>
+  <channel id="138033">
+      <lcn>138033</lcn>
+      <display-name>WBTV6</display-name>
+      <display-name>Unique Lives</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138033_ll_h15_ac.png" />
+  </channel>
+  <channel id="138035">
+      <lcn>138035</lcn>
+      <display-name>WBTV8</display-name>
+      <display-name>Family Unscripted</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138035_ll_h15_ab.png" />
+  </channel>
+  <channel id="169611">
+      <lcn>169611</lcn>
+      <display-name>WBTV9S</display-name>
+      <display-name>Sweet Escapes</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s169611_ll_h15_aa.png" />
+  </channel>
+  <channel id="169645">
+      <lcn>169645</lcn>
+      <display-name>WBTV11S</display-name>
+      <display-name>Welcome Home [Sling]</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s169645_ll_h15_aa.png" />
+  </channel>
+  <channel id="169609">
+      <lcn>169609</lcn>
+      <display-name>WBTVNIK</display-name>
+      <display-name>Nikita</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s169609_ll_h15_aa.png" />
+  </channel>
+  <channel id="169610">
+      <lcn>169610</lcn>
+      <display-name>WBTVOTT</display-name>
+      <display-name>On The Telly</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s169610_ll_h15_aa.png" />
+  </channel>
+  <channel id="122082">
+      <lcn>122082</lcn>
+      <display-name>WDOA</display-name>
+      <display-name>Wanted: Dead or Alive</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s122082_ll_h15_aa.png" />
+  </channel>
+  <channel id="115679">
+      <lcn>115679</lcn>
+      <display-name>WEREAL</display-name>
+      <display-name>All Reality WE tv</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s115679_ll_h15_ac.png" />
+  </channel>
+  <channel id="113735">
+      <lcn>113735</lcn>
+      <display-name>WIPEOUT</display-name>
+      <display-name>Wipeout Xtra</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113735_ll_h15_aa.png" />
+  </channel>
+  <channel id="124995">
+      <lcn>124995</lcn>
+      <display-name>WNANASH</display-name>
+      <display-name>WeatherNation Nashville</display-name>
+  </channel>
+  <channel id="121424">
+      <lcn>121424</lcn>
+      <display-name>WYPOINT</display-name>
+      <display-name>Waypoint TV</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s121424_ll_h15_aa.png" />
+  </channel>
+  <channel id="117832">
+      <lcn>117832</lcn>
+      <display-name>XALDIV</display-name>
+      <display-name>Divorce Court</display-name>
+  </channel>
+  <channel id="117356">
+      <lcn>117356</lcn>
+      <display-name>XALFACT</display-name>
+      <display-name>FilmRise Action</display-name>
+  </channel>
+  <channel id="117833">
+      <lcn>117833</lcn>
+      <display-name>XALFAMF</display-name>
+      <display-name>Family Feud</display-name>
+  </channel>
+  <channel id="117355">
+      <lcn>117355</lcn>
+      <display-name>XALFRFM</display-name>
+      <display-name>FilmRise Free Movies</display-name>
+  </channel>
+  <channel id="136050">
+      <lcn>136050</lcn>
+      <display-name>XAZBBUK</display-name>
+      <display-name>Beyond Belief: Fact or Fiction!</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124856_ll_h15_aa.png" />
+  </channel>
+  <channel id="123012">
+      <lcn>123012</lcn>
+      <display-name>XAZDICK</display-name>
+      <display-name>The Dick Van Dyke Show</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s123012_ll_h9_ab.png" />
+  </channel>
+  <channel id="125064">
+      <lcn>125064</lcn>
+      <display-name>XAZGND</display-name>
+      <display-name>The Girls Next Door</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s125064_ll_h15_aa.png" />
+  </channel>
+  <channel id="128931">
+      <lcn>128931</lcn>
+      <display-name>XAZLWE</display-name>
+      <display-name>The Life and Legend of Wyatt Earp</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s128931_ll_h9_aa.png" />
+  </channel>
+  <channel id="128932">
+      <lcn>128932</lcn>
+      <display-name>XAZTRF</display-name>
+      <display-name>The Rifleman</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s128932_ll_h6_aa.png" />
+  </channel>
+  <channel id="128934">
+      <lcn>128934</lcn>
+      <display-name>XAZTRM</display-name>
+      <display-name>The Real McCoys</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s128934_ll_h9_aa.png" />
+  </channel>
+  <channel id="136152">
+      <lcn>136152</lcn>
+      <display-name>XAZTTS</display-name>
+      <display-name>The Three Stooges +</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s136152_ll_h15_aa.png" />
+  </channel>
+  <channel id="118458">
+      <lcn>118458</lcn>
+      <display-name>XAZUMUK</display-name>
+      <display-name>Unsolved Mysteries</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s118458_ll_h9_ab.png" />
+  </channel>
+  <channel id="113370">
+      <lcn>113370</lcn>
+      <display-name>XAZUNS</display-name>
+      <display-name>Unsolved Mysteries</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113370_ll_h9_ab.png" />
+  </channel>
+  <channel id="149884">
+      <lcn>149884</lcn>
+      <display-name>XCCFF</display-name>
+      <display-name>Forensic Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s149884_ll_h15_aa.png" />
+  </channel>
+  <channel id="124101">
+      <lcn>124101</lcn>
+      <display-name>XMVADC</display-name>
+      <display-name>America's Dumbest Criminals</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124101_ll_h9_ab.png" />
+  </channel>
+  <channel id="124856">
+      <lcn>124856</lcn>
+      <display-name>XMVBB</display-name>
+      <display-name>Beyond Belief</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124856_ll_h15_aa.png" />
+  </channel>
+  <channel id="124916">
+      <lcn>124916</lcn>
+      <display-name>XMVCH</display-name>
+      <display-name>Cheaters</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124916_ll_h15_aa.png" />
+  </channel>
+  <channel id="113360">
+      <lcn>113360</lcn>
+      <display-name>XMVDC</display-name>
+      <display-name>Divorce Court</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113360_ll_h15_aa.png" />
+  </channel>
+  <channel id="157393">
+      <lcn>157393</lcn>
+      <display-name>XMVDTH</display-name>
+      <display-name>Death Valley Days</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s157393_ll_h15_ab.png" />
+  </channel>
+  <channel id="138775">
+      <lcn>138775</lcn>
+      <display-name>XMVFBI</display-name>
+      <display-name>The FBI Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138775_ll_h15_aa.png" />
+  </channel>
+  <channel id="149120">
+      <lcn>149120</lcn>
+      <display-name>XMVFBR</display-name>
+      <display-name>FilmRise British TV</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s149120_ll_h15_aa.png" />
+  </channel>
+  <channel id="113363">
+      <lcn>113363</lcn>
+      <display-name>XMVFF</display-name>
+      <display-name>Forensic Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113363_ll_h9_ab.png" />
+  </channel>
+  <channel id="113361">
+      <lcn>113361</lcn>
+      <display-name>XMVFFM</display-name>
+      <display-name>FilmRise Free Movies</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113361_ll_h15_aa.png" />
+  </channel>
+  <channel id="125192">
+      <lcn>125192</lcn>
+      <display-name>XMVFMF</display-name>
+      <display-name>Family Feud</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s125192_ll_h9_aa.png" />
+  </channel>
+  <channel id="130987">
+      <lcn>130987</lcn>
+      <display-name>XMVFRA</display-name>
+      <display-name>FilmRise Action</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s130987_ll_h15_aa.png" />
+  </channel>
+  <channel id="176042">
+      <lcn>176042</lcn>
+      <display-name>XMVND</display-name>
+      <display-name>The New Detectives</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s176042_ll_h15_aa.png" />
+  </channel>
+  <channel id="184172">
+      <lcn>184172</lcn>
+      <display-name>XMVOUT</display-name>
+      <display-name>The Outpost</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/GNLZZGG0023N8TK.png" />
+  </channel>
+  <channel id="119397">
+      <lcn>119397</lcn>
+      <display-name>XMVPF</display-name>
+      <display-name>Paranormal Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s119397_ll_h9_aa.png" />
+  </channel>
+  <channel id="147637">
+      <lcn>147637</lcn>
+      <display-name>XPLCAFM</display-name>
+      <display-name>FilmRise Free Movies</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s147637_ll_h15_aa.png" />
+  </channel>
+  <channel id="147642">
+      <lcn>147642</lcn>
+      <display-name>XPLCWC</display-name>
+      <display-name>Combat War Channel</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s147642_ll_h15_aa.png" />
+  </channel>
+  <channel id="151234">
+      <lcn>151234</lcn>
+      <display-name>XPLFBI</display-name>
+      <display-name>The FBI Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s151234_ll_h15_aa.png" />
+  </channel>
+  <channel id="137072">
+      <lcn>137072</lcn>
+      <display-name>XPLFF</display-name>
+      <display-name>Forensic Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113363_ll_h9_ab.png" />
+  </channel>
+  <channel id="154709">
+      <lcn>154709</lcn>
+      <display-name>XPLFMUK</display-name>
+      <display-name>FilmRise Free Movies</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s154709_ll_h15_aa.png" />
+  </channel>
+  <channel id="137070">
+      <lcn>137070</lcn>
+      <display-name>XPLFRBT</display-name>
+      <display-name>FilmRise British TV</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s137070_ll_h15_aa.png" />
+  </channel>
+  <channel id="147639">
+      <lcn>147639</lcn>
+      <display-name>XPLPF</display-name>
+      <display-name>Paranormal Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s147639_ll_h15_aa.png" />
+  </channel>
+  <channel id="137083">
+      <lcn>137083</lcn>
+      <display-name>XPLUSM</display-name>
+      <display-name>Unsolved Mysteries</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s113370_ll_h9_ab.png" />
+  </channel>
+  <channel id="137678">
+      <lcn>137678</lcn>
+      <display-name>XSLDVD</display-name>
+      <display-name>The Dick Van Dyke Show</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s137678_ll_h9_aa.png" />
+  </channel>
+  <channel id="138320">
+      <lcn>138320</lcn>
+      <display-name>XSLFA</display-name>
+      <display-name>FilmRise Action</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s138320_ll_h15_aa.png" />
+  </channel>
+  <channel id="147893">
+      <lcn>147893</lcn>
+      <display-name>XSLFBI</display-name>
+      <display-name>The FBI Files</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s147893_ll_h9_aa.png" />
+  </channel>
+  <channel id="147883">
+      <lcn>147883</lcn>
+      <display-name>XSLRIF</display-name>
+      <display-name>The Rifleman</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s147883_ll_h6_aa.png" />
+  </channel>
+  <channel id="134762">
+      <lcn>134762</lcn>
+      <display-name>XSLUM</display-name>
+      <display-name>Unsolved Mysteries</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s134762_ll_h9_aa.png" />
+  </channel>
+  <channel id="134959">
+      <lcn>134959</lcn>
+      <display-name>XTBRFL</display-name>
+      <display-name>The Rifleman</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s134959_ll_h6_aa.png" />
+  </channel>
+  <channel id="124625">
+      <lcn>124625</lcn>
+      <display-name>XTBUSL</display-name>
+      <display-name>Unsolved Mysteries</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/s124625_ll_h9_aa.png" />
+  </channel>
+  <channel id="185604">
+      <lcn>185604</lcn>
+      <display-name>YNGRDRS</display-name>
+      <display-name>The Young Riders</display-name>
+      <icon src="https://zap2it.tmsimg.com/assets/GNLZZGG0020FMF5.png" />
+  </channel>
+  </tv>
