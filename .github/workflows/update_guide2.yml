@@ -2,8 +2,8 @@ name: Update Guide2 EPG
 
 on:
   schedule:
-    - cron: '0 8 * * *'   # 8 AM UTC = 3 AM Eastern
-  workflow_dispatch:  # allows manual trigger
+    - cron: '0 8 * * *'  # 8 AM UTC = 3 AM Eastern
+  workflow_dispatch:    # allows manual trigger
 
 jobs:
   update-guide2:
@@ -25,8 +25,13 @@ jobs:
 
       - name: Download source EPG
         run: |
-          curl -L -o epg_source.xml.gz https://epg.jesmann.com/iptv/USFast.xml.gz
-          gzip -d -f epg_source.xml.gz
+          echo "Downloading EPG source..."
+          curl -L -o guide2/epg_source.xml.gz https://epg.jesmann.com/iptv/USFast.xml.gz
+          echo "Testing gzip integrity..."
+          gzip -t guide2/epg_source.xml.gz
+          gzip -d -f guide2/epg_source.xml.gz
+          echo "Preview first 10 lines to confirm XML:"
+          head -n 10 guide2/epg_source.xml
 
       - name: Run clean_epg.py
         run: |
