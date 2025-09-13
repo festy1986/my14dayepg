@@ -1,43 +1,40 @@
-name: Auto-update EPG
+name: Auto-Clean EPG
 
 on:
   schedule:
-    - cron: '0 4 * * *'  # Runs every day at 04:00 UTC
-  workflow_dispatch:     # Allows manual trigger
+    # Runs every day at 4:00 UTC
+    - cron: '0 4 * * *'
+  workflow_dispatch: # allows manual trigger from GitHub
 
 jobs:
-  update-epg:
+  clean-epg:
     runs-on: windows-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
 
-      - name: Set up Python
+    steps:
+      # Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.13'
 
-      - name: Install dependencies
+      # Install dependencies
+      - name: Install Python packages
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run EPG cleanup
-        shell: pwsh
+      # Run your clean_epg.py script
+      - name: Run clean EPG script
         run: |
-          Write-Host "Running clean_epg.py..."
-          python .\clean_epg.py
+          python clean_epg.py
 
-      - name: Commit and push changes
-        shell: pwsh
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add clean_epg.xml
-          if ((git status --porcelain) -ne "") {
-              git commit -m "Auto-update clean_epg.xml"
-              git push
-              Write-Host "✅ Changes pushed to GitHub"
-          } else {
-              Write-Host "No changes detected"
-          }
+      # Upload the cleaned EPG as an artifact
+      - name: Upload clean EPG artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: clean_epg
+          path: clean_epg.xml
